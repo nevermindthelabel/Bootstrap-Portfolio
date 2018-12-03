@@ -17,6 +17,7 @@
 }
 
 .navbar {
+    margin-bottom: 5%;
     display: flex;
     flex-grow: 1;
     align-items: flex-end;
@@ -48,6 +49,7 @@ li {
 }
 
 .body {
+    position: relative;
     border: 1px solid #cccccc;
     background-color: #ffffff;
 }
