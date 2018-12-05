@@ -35,6 +35,11 @@ body {
     color: #dd4b39;
 }
 
+.fa-phone {
+    font-size: 35px;
+    color: #4285F4;
+}
+
 .navbar {
     margin-bottom: 5%;
     display: flex;
