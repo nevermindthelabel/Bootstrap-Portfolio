@@ -46,13 +46,6 @@ body {
     align-items: flex-end;
 }
  
-/* #right {
-    display: flex;
-    flex-grow: inherit;
-    justify-content: flex-end;
-    margin: 0px 150px;
-}  */
-
 #portfolio {
     margin-bottom: 1%;
     display: flex;
