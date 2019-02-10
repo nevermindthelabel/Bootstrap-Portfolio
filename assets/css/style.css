@@ -89,7 +89,7 @@ li {
 
 .background {
   position: relative;
-  background: url(../images/pankaj-patel-516482-unsplash.jpg) repeat center
+  background: url(../images/background/pankaj-patel-516482-unsplash.jpg) repeat
     center fixed;
   background-size: 100%;
   min-width: auto;
