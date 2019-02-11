@@ -100,6 +100,14 @@ li {
   color: #777777;
 }
 
+.background {
+  position: relative;
+  background: url(../images/background/pankaj-patel-516482-unsplash.jpg) repeat
+    center fixed;
+  background-size: 100%;
+  min-width: auto;
+}
+
 .body {
   margin-top: 150px;
   flex: 1 0 auto;
